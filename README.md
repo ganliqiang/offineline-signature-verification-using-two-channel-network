@@ -10,6 +10,7 @@ results:
 1600/1600 [==============================] - 450s 281ms/step
 * Accuracy on training set: 86.33%
 * Accuracy on test set: 83.25%
+this network surpass the SigNet on accurate .the result of Signet on GPDS96 is 77%. .
 i run 15epoch and use all GPDS960 datasets,all parameter are used deaulte in keras. you can continue finetune to get more accurate 
 result. i am just for fun to accomplish this work.
 
